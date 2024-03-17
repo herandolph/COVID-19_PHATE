@@ -1,7 +1,7 @@
 # Gene expression profiling in hospitalized COVID-19 patients
 code necessary to reproduce the computational analyses published in:
 
-Sustained IFN signalling is associated with delayed development of SARS-CoV-2-specific adaptive immunity in hospitalized cases of COVID-19
+Sustained IFN signaling is associated with delayed development of SARS-CoV-2-specific immunity
 
 Brunet-Ratnasingham E*, Morin S*, Randolph HE* , et al. 
 
